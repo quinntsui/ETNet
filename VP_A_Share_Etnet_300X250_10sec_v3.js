@@ -590,7 +590,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,285.5,35.5);
 	this.instance_17 = new lib.Symbol1();
 	this.instance_17.setTransform(0.8,-117.4);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_16}]}).to({state:[{t:this.instance_17}]},153).wait(1008));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_16}]}).to({state:[{t:this.instance_17}]},153).wait(48));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-149.3,-261.1,303,298.5);
